@@ -1,7 +1,6 @@
-# Word Guessing Game
-# This program selects a random word and allows the user
-# to guess one letter at a time until the word is solved
-# or the player runs out of attempts.
+# Roseann Lawson
+# CIS256 Term Year Fall 2026
+# Programming Assignment 4- Word Guess
 
 import random
 
