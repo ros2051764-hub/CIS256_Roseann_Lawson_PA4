@@ -1,7 +1,6 @@
-# test_word_game.py
-# These tests verify that the word-guessing game functions
-# work correctly. Pytest will automatically discover and run
-# any function beginning with "test_".
+# Roseann Lawson
+# CIS256 Term Year Fall 2026
+# Programming Assignment 4- Word Guess
 
 import pytest
 from word_game import select_word, process_guess
